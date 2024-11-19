@@ -11,8 +11,6 @@ const menuPage = new MenuPage ()
 describe('orange hmr', () => {
 
   const selectorslist = {
-    //sectiontitleTopBar: '.oxd-topbar-header-breadcrumb-module',
-    //myInfoButton: "[href='/web/index.php/pim/viewMyDetails']",
     firstNameField: "[name='firstName']",
     midNameField: "[name='middleName']",
     lastNameField: "[name='lastName']",
