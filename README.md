@@ -2,7 +2,7 @@
 # Projeto Cypress
 
 ## Descrição
-Este projeto utiliza o Cypress para testes end-to-end no site Orange, onde foram criados diversos cenrios de testes. O Cypress é uma ferramenta poderosa para automação de testes de interface de usuário.
+Este projeto utiliza o Cypress para testes end-to-end no site Orange, onde foram criados diversos cenarios de testes. O Cypress é uma ferramenta poderosa para automação de testes de interface de usuário.
 
 ## Índice
 1. [Instalação](#instalação)
